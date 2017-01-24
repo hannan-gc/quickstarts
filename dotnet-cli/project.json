@@ -5,12 +5,12 @@
   },
 
   "dependencies": {
-    "Storyteller": "4.0.0-alpha-441"
+    "Storyteller": "4.0.0-alpha-463"
   },
 
   "tools": {
     "dotnet-storyteller": {
-      "version": "1.0.0-alpha-441",
+      "version": "1.0.0-alpha-463",
       "imports": [ "dnxcore50" ]
     }
   },
