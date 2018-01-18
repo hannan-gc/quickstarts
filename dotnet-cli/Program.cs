@@ -4,9 +4,9 @@ namespace dotnet_cli
 {
     public class Program
     {
-        public static void Main(string[] args)
+        public static int Main(string[] args)
         {
-            StorytellerAgent.Run(args);
+            return StorytellerAgent.Run(args);
         }
     }
 }
